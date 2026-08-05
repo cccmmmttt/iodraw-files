@@ -15,6 +15,9 @@
         <mxCell id="hJh_XSGLhTFzR44eV5ca-2" value="各功能模块&lt;div&gt;报警&lt;span style=&quot;background-color: initial;&quot;&gt;配置是否修改&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="160" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="hJh_XSGLhTFzR44eV5ca-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
