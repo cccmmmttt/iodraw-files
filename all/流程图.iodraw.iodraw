@@ -56,7 +56,7 @@
         <mxCell id="hJh_XSGLhTFzR44eV5ca-11" value="汇总报警信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="660" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hJh_XSGLhTFzR44eV5ca-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hJh_XSGLhTFzR44eV5ca-13">
+        <mxCell id="hJh_XSGLhTFzR44eV5ca-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hJh_XSGLhTFzR44eV5ca-13" target="hJh_XSGLhTFzR44eV5ca-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="560" as="targetPoint" />
           </mxGeometry>
@@ -77,7 +77,7 @@
           <mxGeometry x="70" y="820" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hJh_XSGLhTFzR44eV5ca-25" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="175" y="518" width="30" height="30" as="geometry" />
+          <mxGeometry x="130" y="448" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hJh_XSGLhTFzR44eV5ca-27" value="消警记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="560" width="120" height="60" as="geometry" />
