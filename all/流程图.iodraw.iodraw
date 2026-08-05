@@ -68,7 +68,7 @@
         <mxCell id="hJh_XSGLhTFzR44eV5ca-16" value="报警通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="740" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hJh_XSGLhTFzR44eV5ca-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hJh_XSGLhTFzR44eV5ca-17">
+        <mxCell id="hJh_XSGLhTFzR44eV5ca-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hJh_XSGLhTFzR44eV5ca-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="140" as="targetPoint" />
           </mxGeometry>
