@@ -35,6 +35,9 @@
         <mxCell id="hJh_XSGLhTFzR44eV5ca-4" value="实时采集运行参数和&lt;div&gt;设备状态数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="360" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hJh_XSGLhTFzR44eV5ca-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hJh_XSGLhTFzR44eV5ca-5" target="hJh_XSGLhTFzR44eV5ca-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hJh_XSGLhTFzR44eV5ca-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="440" width="120" height="40" as="geometry" />
         </mxCell>
@@ -45,7 +48,7 @@
           <mxGeometry x="295" y="168" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hJh_XSGLhTFzR44eV5ca-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="450" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
